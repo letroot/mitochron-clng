@@ -154,9 +154,10 @@
                   <ul class="list-disc space-y-2">
                     <li>Record a video no longer than 2 minutes introducing yourself and your business.</li>
                     <li>Tell us in the video why you are participating and why your business deserves the prize.</li>
-                    <li>Post the video on <span class="font-semibold">your</span> Twitter and Instagram pages and tag @mitochronhub_</li>
-                    <li>Get your followers to vote for you by having your followers follow our Twitter and Instagram pages and liking your video.</li>
-                    <li>Keep building until we announce the winning business!</li>
+                    <li>Post the video on <span class="font-semibold">your</span> Instagram page and tag @mitochronhub_</li>
+                    <li>Get your followers to vote for you by having your followers follow our Instagram page and like your video.</li>
+                    <li>Get up to 10 likes on your video to qualify for consideration.</li>
+                    <li>Keep building until we announce the 3 winning business in January!</li>
 
                   </ul>
                   

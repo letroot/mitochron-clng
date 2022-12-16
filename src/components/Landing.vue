@@ -161,7 +161,7 @@
                 <h3 class="font-medium text-2xl">2. Apply for the Challenge</h3>
                 <p class="mt-4 md:text-base text-">
                    <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS" class="underline underline-offset-2 font-medium">Fill this form</a> to apply. The stronger your application, the higher your
-                  chances. So don’t hold back.
+                  chances. You'll be required to create a pitch deck which you'll submit with the form. You can download the deck template <a target="_blank" class="underline" href="https://drive.google.com/drive/folders/1qIGJLNnc_XrJDHsInoYfIambqkgMaxg1?usp=share_link">here</a>. PLEASE FOLLOW THE TEMPLATE.
                 </p>
               </div>
             </div>
@@ -177,7 +177,7 @@
                   <li>Step 1: Record a video no longer than 2 minutes introducing yourself, what problem your business is solving and WHY you're the best fit  for this fund.</li>
                   <li>Step 2: Post the video on <span class="font-semibold">your</span> Instagram page and tag @mitochronhub_ on your video
                   </li>
-                  <li>Step 3: Get up to 20 likes on the video and ensure that those who like your video also follow our <a class="underline" href="https://instagram.com/mitochronhub_">page</a>. This is to ensure market participation.</li>
+                  <li>Step 3: Get up to 20 likes on the video and ensure that those who like your video also follow our <a target="_blank" class="underline" href="https://instagram.com/mitochronhub_">page</a>. This is to ensure market participation.</li>
                   <li>Step 4: Keep building as we review your application. We'll announce the 3 winning business in January 2023!</li>
 
                 </ul>

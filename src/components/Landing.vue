@@ -14,7 +14,7 @@
           <div class="flex items-center gap-[30px] text-grey font-medium">
             <a href="#about" class="hidden md:block hover:text-primary">Learn more</a>
             <a href="#howto" class="hidden md:block hover:text-primary">How to Enter</a>
-            <a href="#">
+            <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS">
               <button
                 class="px-4 py-3 text-sm  bg-mhpink text-white transition-all duration-200 border rounded-full bg-primary hover:text-primary hover:bg-mhpink hover:border-primary">
                 Apply now
@@ -37,7 +37,7 @@
 
           <div class="flex flex-row items-center mt-5 sm:mt-6 lg:mt-10">
             <div class="">
-              <a href="https://mitochronhub.com">
+              <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS">
                 <button
                   class="px-6 py-3 text-lg lg:px-8 lg:py-3 xl:py-3 rounded-full font-medium bg-mhpink text-white  lg:text-lg xl:text-lg -tracking-0.1 focus:outline-none focus:ring-2 focus:ring-accent-green">
                   Apply now
@@ -81,7 +81,7 @@
         </div>
 
         <div class="mt-12">
-          <a href="https://mitochronhub.com">
+          <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS">
             <button
               class="px-6 py-3 text-lg lg:px-8 lg:py-3 xl:py-3 rounded-full font-medium bg-mhpink text-white  lg:text-lg xl:text-lg -tracking-0.1 focus:outline-none focus:ring-2 focus:ring-accent-green">
               Apply now
@@ -95,7 +95,7 @@
       <!-- video section -->
       <section id="about" class="flex flex-col items-center bg-pink-50 mt-24 pb-8">
 
-        <h1 class="text-mhblue text-5xl mt-8 md:mt-16 font-semibold text-center">
+        <h1 class="px-4 text-mhblue text-5xl mt-8 md:mt-16 font-semibold text-center">
           Learn More about the Mitochron Hub <br> Startup Challenge
         </h1>
 
@@ -113,7 +113,7 @@
       </div>
 
       <div class="py-12 text-center bg-pink-50">
-        <a href="https://mitochronhub.com">
+        <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS">
           <button
             class="px-6 py-3 text-lg lg:px-8 lg:py-3 xl:py-3 rounded-full font-medium bg-mhpink text-white  lg:text-lg xl:text-lg -tracking-0.1 focus:outline-none focus:ring-2 focus:ring-accent-green">
             Apply now
@@ -146,9 +146,9 @@
             <div class="mt-8 md:mt-20 flex items-start space-x-6 xl:w-9/12 w-11/12">
               <img src="../assets/tick.svg" alt="tick" class="mt-1" />
               <div class="text-white">
-                <h3 class="font-medium text-2xl">Read the fine print</h3>
+                <h3 class="font-medium text-2xl">1. Read the fine print</h3>
                 <p class="mt-4 md:text-base text-">
-                  Visit <a href="#" class="underline underline-offset-2 font-medium">this link</a> to download the terms
+                  Visit <a href="https://drive.google.com/drive/folders/1qIGJLNnc_XrJDHsInoYfIambqkgMaxg1?usp=share_link" target="_blank" class="underline underline-offset-2 font-medium">this link</a> to download the terms
                   and conditions
                   document. By entering this challenge you agree to
                   all the terms contained therein.
@@ -158,10 +158,9 @@
             <div class="mt-10 flex items-start space-x-6 xl:w-9/12 w-11/12">
               <img src="../assets/tick.svg" alt="tick" class="mt-1" />
               <div class="text-white">
-                <h3 class="font-medium text-2xl">Tell us all about your idea</h3>
+                <h3 class="font-medium text-2xl">2. Apply for the Challenge</h3>
                 <p class="mt-4 md:text-base text-">
-                  Fill this <a href="#" class="underline underline-offset-2 font-medium">Google Form</a> so we get to
-                  know you better. The stronger your application, the higher your
+                   <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS" class="underline underline-offset-2 font-medium">Fill this form</a> to apply. The stronger your application, the higher your
                   chances. So don’t hold back.
                 </p>
               </div>
@@ -172,17 +171,14 @@
             <div class="mt-10 sm:mt-20 flex items-start space-x-6 xl:w-9/12 w-11/12">
               <img src="../assets/tick.svg" alt="tick" class="mt-1" />
               <div class="text-white">
-                <h3 class="font-medium text-2xl">Get Voted for</h3>
+                <h3 class="font-medium text-2xl">3. Get Qualified</h3>
                 <p class="mt-4 md:text-base text-">
                 <ul class="list-disc space-y-2">
-                  <li>Record a video no longer than 2 minutes introducing yourself and your business.</li>
-                  <li>Tell us in the video why you are participating and why your business deserves the prize.</li>
-                  <li>Post the video on <span class="font-semibold">your</span> Instagram page and tag @mitochronhub_
+                  <li>Step 1: Record a video no longer than 2 minutes introducing yourself, what problem your business is solving and WHY you're the best fit  for this fund.</li>
+                  <li>Step 2: Post the video on <span class="font-semibold">your</span> Instagram page and tag @mitochronhub_ on your video
                   </li>
-                  <li>Get your followers to vote for you by having your followers follow our Instagram page and like
-                    your video.</li>
-                  <li>Get up to 10 likes on your video to qualify for consideration.</li>
-                  <li>Keep building until we announce the 3 winning business in January!</li>
+                  <li>Step 3: Get up to 20 likes on the video and ensure that those who like your video also follow our <a class="underline" href="https://instagram.com/mitochronhub_">page</a>. This is to ensure market participation.</li>
+                  <li>Step 4: Keep building as we review your application. We'll announce the 3 winning business in January 2023!</li>
 
                 </ul>
 

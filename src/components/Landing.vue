@@ -14,7 +14,7 @@
           <div class="flex items-center gap-[30px] text-grey font-medium">
             <a href="#about" class="hidden md:block hover:text-primary">Learn more</a>
             <a href="#howto" class="hidden md:block hover:text-primary">How to Enter</a>
-            <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8ySxKK387Vccta8oceHc92ksz3vHflYYHSyZNfKSwU01WPA/viewform">
               <button
                 class="px-4 py-3 text-sm  bg-mhpink text-white transition-all duration-200 border rounded-full bg-primary hover:text-primary hover:bg-mhpink hover:border-primary">
                 Apply now
@@ -37,7 +37,7 @@
 
           <div class="flex flex-row items-center mt-5 sm:mt-6 lg:mt-10">
             <div class="">
-              <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8ySxKK387Vccta8oceHc92ksz3vHflYYHSyZNfKSwU01WPA/viewform">
                 <button
                   class="px-6 py-3 text-lg lg:px-8 lg:py-3 xl:py-3 rounded-full font-medium bg-mhpink text-white  lg:text-lg xl:text-lg -tracking-0.1 focus:outline-none focus:ring-2 focus:ring-accent-green">
                   Apply now
@@ -81,7 +81,7 @@
         </div>
 
         <div class="mt-12">
-          <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8ySxKK387Vccta8oceHc92ksz3vHflYYHSyZNfKSwU01WPA/viewform">
             <button
               class="px-6 py-3 text-lg lg:px-8 lg:py-3 xl:py-3 rounded-full font-medium bg-mhpink text-white  lg:text-lg xl:text-lg -tracking-0.1 focus:outline-none focus:ring-2 focus:ring-accent-green">
               Apply now
@@ -113,7 +113,7 @@
       </div>
 
       <div class="py-12 text-center bg-pink-50">
-        <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8ySxKK387Vccta8oceHc92ksz3vHflYYHSyZNfKSwU01WPA/viewform">
           <button
             class="px-6 py-3 text-lg lg:px-8 lg:py-3 xl:py-3 rounded-full font-medium bg-mhpink text-white  lg:text-lg xl:text-lg -tracking-0.1 focus:outline-none focus:ring-2 focus:ring-accent-green">
             Apply now
@@ -160,7 +160,7 @@
               <div class="text-white">
                 <h3 class="font-medium text-2xl">2. Apply for the Challenge</h3>
                 <p class="mt-4 md:text-base text-">
-                   <a href="https://q8fk5savj72.typeform.com/to/WYvgc1pS" class="underline underline-offset-2 font-medium">Fill this form</a> to apply. The stronger your application, the higher your
+                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8ySxKK387Vccta8oceHc92ksz3vHflYYHSyZNfKSwU01WPA/viewform" class="underline underline-offset-2 font-medium">Fill this form</a> to apply. The stronger your application, the higher your
                   chances. You'll be required to create a pitch deck which you'll submit with the form. You can download the deck template <a target="_blank" class="underline" href="https://drive.google.com/drive/folders/1qIGJLNnc_XrJDHsInoYfIambqkgMaxg1?usp=share_link">here</a>. PLEASE FOLLOW THE TEMPLATE.
                 </p>
               </div>
